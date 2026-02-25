@@ -36,10 +36,6 @@ Email: kiky.manjo@gmail.com
 
 ---
 
-![](https://streak-stats.demolab.com?user=wahyurizkyfs&theme=merko&hide_border=false)
-
----
-
 ## 👀 Profile Views
 ![](https://visitcount.itsvg.in/api?id=wahyurizkyfs&icon=5&color=6)
 
