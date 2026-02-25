@@ -36,11 +36,6 @@ Email: kiky.manjo@gmail.com
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=wahyurizkyfs&show_icons=true&theme=merko&hide_border=false&cache_seconds=1800)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wahyurizkyfs&layout=compact&theme=merko&hide_border=false&cache_seconds=1800)
-
 ![](https://streak-stats.demolab.com?user=wahyurizkyfs&theme=merko&hide_border=false)
 
 ---
